@@ -19,12 +19,12 @@ body {
 .header h1 {
   display: inline-block;
   font-size: 48px;
+  margin-right: 20%;
 }
 
 .header h1 .seo {
   color: #d9dcd6;
 }
-
 .header div {
   padding-top: 15px;
   margin-right: 20px;
