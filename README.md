@@ -35,12 +35,14 @@ HTML, CSS
 
 Following link provides the preview of the website before changing the code.
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](https://github.com/smeea-2018/Marketing-agency-refactor/blob/dev/mra%20screenshot%20before%20refactoring.png)>)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/mra%20screenshot%20after%20refactoring.png)
 
 The link below is the preview of the modified website.
 
-![The modified Horiseon webpage a header with navigation bar, image, cards with text and footer](https://github.com/smeea-2018/Marketing-agency-refactor/blob/dev/mra%20screenshot%20after%20refactoring.png)
+![The modified Horiseon webpage a header with navigation bar, image, cards with text and footer](./assets/images/mra%20screenshot%20after%20refactoring.png)
 
 ## How to run and install the project
 
 To run the project visual studio code, a web browser and git hub account is required. The code can be pulled by using git bash or github desktop.
+
+## Link to deploy website [here](https://smeea-2018.github.io/Marketing-agency-refactor/)
