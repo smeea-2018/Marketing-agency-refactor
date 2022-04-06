@@ -1,6 +1,9 @@
 # Marketing-agency-refactor to use semantic HTML
 
-Making repository for agency
+## Link to deploy website [here](https://smeea-2018.github.io/Marketing-agency-refactor/)
+
+## Making repository for agency
+
 This project refactors the existing codebase to use semantic HTML to make the code more accessible. Requirements and acceptance criteria for this project is:
 
 ## User Story
@@ -44,5 +47,3 @@ The link below is the preview of the modified website.
 ## How to run and install the project
 
 To run the project visual studio code, a web browser and git hub account is required. The code can be pulled by using git bash or github desktop.
-
-## Link to deploy website [here](https://smeea-2018.github.io/Marketing-agency-refactor/)
