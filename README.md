@@ -42,7 +42,7 @@ Following link provides the preview of the website before changing the code.
 
 The link below is the preview of the modified website.
 
-![The modified Horiseon webpage a header with navigation bar, image, cards with text and footer](./assets/images/mra%20screenshot%20after%20refactoring.png)
+![The modified Horiseon webpage a header with navigation bar, image, cards with text and footer](./assets/images/mrascreenshotafterrefactoringi.JPG)
 
 ## How to run and install the project
 
